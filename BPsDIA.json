@@ -1,0 +1,4421 @@
+[
+  {
+    "Street": "Absolonova"
+  },
+  {
+    "Street": "Adamcova"
+  },
+  {
+    "Street": "Adamovská"
+  },
+  {
+    "Street": "Achtelky"
+  },
+  {
+    "Street": "Akademická"
+  },
+  {
+    "Street": "akátky"
+  },
+  {
+    "Street": "Alešova"
+  },
+  {
+    "Street": "Ambrožova"
+  },
+  {
+    "Street": "Amerlingova"
+  },
+  {
+    "Street": "Antonína Macka"
+  },
+  {
+    "Street": "Antonína Procházky"
+  },
+  {
+    "Street": "Antonínská"
+  },
+  {
+    "Street": "Arbesova"
+  },
+  {
+    "Street": "Arménská"
+  },
+  {
+    "Street": "Azurová"
+  },
+  {
+    "Street": "Baarovo nábřeží"
+  },
+  {
+    "Street": "Bakalovo nábřeží"
+  },
+  {
+    "Street": "Balbínova"
+  },
+  {
+    "Street": "Banskobystrická"
+  },
+  {
+    "Street": "Bartolomějská"
+  },
+  {
+    "Street": "Barvy"
+  },
+  {
+    "Street": "Bašty"
+  },
+  {
+    "Street": "Bauerova"
+  },
+  {
+    "Street": "Bayerova"
+  },
+  {
+    "Street": "Bednaříkova"
+  },
+  {
+    "Street": "Bednářova"
+  },
+  {
+    "Street": "Beethovenova"
+  },
+  {
+    "Street": "Běhounská"
+  },
+  {
+    "Street": "Belcrediho"
+  },
+  {
+    "Street": "Bellova"
+  },
+  {
+    "Street": "Bělohorská"
+  },
+  {
+    "Street": "Běloruská"
+  },
+  {
+    "Street": "Běly Pažoutové"
+  },
+  {
+    "Street": "Bendlova"
+  },
+  {
+    "Street": "Benešova"
+  },
+  {
+    "Street": "Bezručova"
+  },
+  {
+    "Street": "Bieblova"
+  },
+  {
+    "Street": "Bílého"
+  },
+  {
+    "Street": "Biskupská"
+  },
+  {
+    "Street": "Björnsenův sad"
+  },
+  {
+    "Street": "Björnsonův sad"
+  },
+  {
+    "Street": "Blanenská"
+  },
+  {
+    "Street": "Blatného"
+  },
+  {
+    "Street": "Blatnická"
+  },
+  {
+    "Street": "Blatouchová"
+  },
+  {
+    "Street": "Blažkova"
+  },
+  {
+    "Street": "Boettingrova"
+  },
+  {
+    "Street": "Böhmova"
+  },
+  {
+    "Street": "Bolzanova"
+  },
+  {
+    "Street": "Borodinova"
+  },
+  {
+    "Street": "Bořetická"
+  },
+  {
+    "Street": "Boskovická"
+  },
+  {
+    "Street": "Bosonožská"
+  },
+  {
+    "Street": "Botanická"
+  },
+  {
+    "Street": "Božetěchova"
+  },
+  {
+    "Street": "Bráfova"
+  },
+  {
+    "Street": "Bratislavská"
+  },
+  {
+    "Street": "bratří Křičků"
+  },
+  {
+    "Street": "bratří Žůrků"
+  },
+  {
+    "Street": "Brechtova"
+  },
+  {
+    "Street": "Brigádnická"
+  },
+  {
+    "Street": "Brožíkova"
+  },
+  {
+    "Street": "Březinova"
+  },
+  {
+    "Street": "Březová"
+  },
+  {
+    "Street": "Bubeníčkova"
+  },
+  {
+    "Street": "Bučovická"
+  },
+  {
+    "Street": "Budínská"
+  },
+  {
+    "Street": "Budovcova"
+  },
+  {
+    "Street": "Bulharská"
+  },
+  {
+    "Street": "Burianovo náměstí"
+  },
+  {
+    "Street": "Bystrcká"
+  },
+  {
+    "Street": "Bystřinova"
+  },
+  {
+    "Street": "Bzenecká"
+  },
+  {
+    "Street": "cacovický ostrov"
+  },
+  {
+    "Street": "Cejl"
+  },
+  {
+    "Street": "Celní"
+  },
+  {
+    "Street": "Cihlářská"
+  },
+  {
+    "Street": "Cimburkova"
+  },
+  {
+    "Street": "Cornovova"
+  },
+  {
+    "Street": "Cyrilská"
+  },
+  {
+    "Street": "Čápkova"
+  },
+  {
+    "Street": "Čechyňská"
+  },
+  {
+    "Street": "Čejkova"
+  },
+  {
+    "Street": "Čejkovická"
+  },
+  {
+    "Street": "Čeňka Růžičky"
+  },
+  {
+    "Street": "Čermákova"
+  },
+  {
+    "Street": "Černého"
+  },
+  {
+    "Street": "Černopolní"
+  },
+  {
+    "Street": "Černovická"
+  },
+  {
+    "Street": "Černovické nábřeží"
+  },
+  {
+    "Street": "Černovičky"
+  },
+  {
+    "Street": "Černozemní"
+  },
+  {
+    "Street": "Čertova rokle"
+  },
+  {
+    "Street": "Červený kopec"
+  },
+  {
+    "Street": "Česká"
+  },
+  {
+    "Street": "Čichnova"
+  },
+  {
+    "Street": "Čtvery hony"
+  },
+  {
+    "Street": "Dalimilova"
+  },
+  {
+    "Street": "Dědická"
+  },
+  {
+    "Street": "Demlova"
+  },
+  {
+    "Street": "Denisovy sady"
+  },
+  {
+    "Street": "Divadelní"
+  },
+  {
+    "Street": "Dlážděná"
+  },
+  {
+    "Street": "Dlouhá"
+  },
+  {
+    "Street": "Dobrovského"
+  },
+  {
+    "Street": "Doležalova"
+  },
+  {
+    "Street": "Dolnopolní"
+  },
+  {
+    "Street": "Domažlická"
+  },
+  {
+    "Street": "Dominikánská"
+  },
+  {
+    "Street": "Dominikánské náměstí"
+  },
+  {
+    "Street": "Dornych"
+  },
+  {
+    "Street": "Drdy"
+  },
+  {
+    "Street": "Drobného"
+  },
+  {
+    "Street": "Dřevařská"
+  },
+  {
+    "Street": "Dubová"
+  },
+  {
+    "Street": "Dufkovo nábřeží"
+  },
+  {
+    "Street": "Dukelská třída"
+  },
+  {
+    "Street": "Dunajská"
+  },
+  {
+    "Street": "Durďákova"
+  },
+  {
+    "Street": "Dvorského"
+  },
+  {
+    "Street": "Dvořákova"
+  },
+  {
+    "Street": "Dykova"
+  },
+  {
+    "Street": "Ečerova"
+  },
+  {
+    "Street": "Elgartova"
+  },
+  {
+    "Street": "Elišky Krásnohorské"
+  },
+  {
+    "Street": "Elišky Přemyslovny"
+  },
+  {
+    "Street": "Elplova"
+  },
+  {
+    "Street": "Fanderlíkova"
+  },
+  {
+    "Street": "Fialová"
+  },
+  {
+    "Street": "Filipínského"
+  },
+  {
+    "Street": "Filipova"
+  },
+  {
+    "Street": "Filkukova"
+  },
+  {
+    "Street": "Fillova"
+  },
+  {
+    "Street": "Fišova"
+  },
+  {
+    "Street": "Foerstrova"
+  },
+  {
+    "Street": "Foltýnova"
+  },
+  {
+    "Street": "Francouzská"
+  },
+  {
+    "Street": "Františkánská"
+  },
+  {
+    "Street": "Františky Skaunicové"
+  },
+  {
+    "Street": "Franzova"
+  },
+  {
+    "Street": "Fryčajova"
+  },
+  {
+    "Street": "Gabriely Preissové"
+  },
+  {
+    "Street": "Gajdošova"
+  },
+  {
+    "Street": "Galandauerova"
+  },
+  {
+    "Street": "Gallašova"
+  },
+  {
+    "Street": "Gargulákova"
+  },
+  {
+    "Street": "Geislerova"
+  },
+  {
+    "Street": "Gellnerova"
+  },
+  {
+    "Street": "Glinkova"
+  },
+  {
+    "Street": "Gorazdova"
+  },
+  {
+    "Street": "Gorkého"
+  },
+  {
+    "Street": "Gromešova"
+  },
+  {
+    "Street": "Gruzínská"
+  },
+  {
+    "Street": "Gustava Broma"
+  },
+  {
+    "Street": "Haasova"
+  },
+  {
+    "Street": "Hádecká"
+  },
+  {
+    "Street": "Hády"
+  },
+  {
+    "Street": "Halasovo náměstí"
+  },
+  {
+    "Street": "Hasičská"
+  },
+  {
+    "Street": "Haškova"
+  },
+  {
+    "Street": "Havelkova"
+  },
+  {
+    "Street": "Havlíčkova"
+  },
+  {
+    "Street": "Havraní"
+  },
+  {
+    "Street": "Helceletova"
+  },
+  {
+    "Street": "Heleny Malířové"
+  },
+  {
+    "Street": "Herčíkova"
+  },
+  {
+    "Street": "Heršpická"
+  },
+  {
+    "Street": "Heyrovského"
+  },
+  {
+    "Street": "Hladíkova"
+  },
+  {
+    "Street": "Hlavní"
+  },
+  {
+    "Street": "Hlinky"
+  },
+  {
+    "Street": "Hněvkovského"
+  },
+  {
+    "Street": "Holandská"
+  },
+  {
+    "Street": "Holzova"
+  },
+  {
+    "Street": "Hoppova"
+  },
+  {
+    "Street": "Horácké náměstí"
+  },
+  {
+    "Street": "Horní"
+  },
+  {
+    "Street": "Horníkova"
+  },
+  {
+    "Street": "Horova"
+  },
+  {
+    "Street": "Hostislavova"
+  },
+  {
+    "Street": "Hoštická"
+  },
+  {
+    "Street": "Houbalova"
+  },
+  {
+    "Street": "Hradecká"
+  },
+  {
+    "Street": "Hraničky"
+  },
+  {
+    "Street": "Hrázka"
+  },
+  {
+    "Street": "Hrázní"
+  },
+  {
+    "Street": "Hrnčířská"
+  },
+  {
+    "Street": "Hrozňatova"
+  },
+  {
+    "Street": "Hřbitovní"
+  },
+  {
+    "Street": "Hudcova"
+  },
+  {
+    "Street": "Husitská"
+  },
+  {
+    "Street": "Húskova"
+  },
+  {
+    "Street": "Husova"
+  },
+  {
+    "Street": "Husovická"
+  },
+  {
+    "Street": "Hutařova"
+  },
+  {
+    "Street": "Hvězdová"
+  },
+  {
+    "Street": "Hviezdoslavova"
+  },
+  {
+    "Street": "Hybešova"
+  },
+  {
+    "Street": "Chalabalova"
+  },
+  {
+    "Street": "Chaloupky"
+  },
+  {
+    "Street": "Charbulova"
+  },
+  {
+    "Street": "Charvatská"
+  },
+  {
+    "Street": "Chironova"
+  },
+  {
+    "Street": "Chládkova"
+  },
+  {
+    "Street": "Chlupova"
+  },
+  {
+    "Street": "Chmelnice"
+  },
+  {
+    "Street": "Chodská"
+  },
+  {
+    "Street": "Chopinova"
+  },
+  {
+    "Street": "Chrlická"
+  },
+  {
+    "Street": "Chrlické náměstí"
+  },
+  {
+    "Street": "Chudčická"
+  },
+  {
+    "Street": "Chudobova"
+  },
+  {
+    "Street": "Irkutská"
+  },
+  {
+    "Street": "Ivanovické náměstí"
+  },
+  {
+    "Street": "Jabloňová"
+  },
+  {
+    "Street": "Jakuba Obrovského"
+  },
+  {
+    "Street": "Jakubské náměstí"
+  },
+  {
+    "Street": "Jámy"
+  },
+  {
+    "Street": "Jana Babáka"
+  },
+  {
+    "Street": "Jana Nečase"
+  },
+  {
+    "Street": "Janáčkovo náměstí"
+  },
+  {
+    "Street": "Jandáskova"
+  },
+  {
+    "Street": "Jánošíkova"
+  },
+  {
+    "Street": "Janouškova"
+  },
+  {
+    "Street": "Jánská"
+  },
+  {
+    "Street": "Jarní"
+  },
+  {
+    "Street": "Jasanová"
+  },
+  {
+    "Street": "Jedlová"
+  },
+  {
+    "Street": "Jedovnická"
+  },
+  {
+    "Street": "Jelínkova"
+  },
+  {
+    "Street": "Jemelkova"
+  },
+  {
+    "Street": "Jeneweinova"
+  },
+  {
+    "Street": "Jeřábkova"
+  },
+  {
+    "Street": "Jezerní"
+  },
+  {
+    "Street": "Jezerůvky"
+  },
+  {
+    "Street": "Jezuitská"
+  },
+  {
+    "Street": "Ježkova"
+  },
+  {
+    "Street": "Jihlavská"
+  },
+  {
+    "Street": "Jihomoravské náměstí"
+  },
+  {
+    "Street": "Jilemnického"
+  },
+  {
+    "Street": "Jílkova"
+  },
+  {
+    "Street": "Jindřichova"
+  },
+  {
+    "Street": "Jiráskova"
+  },
+  {
+    "Street": "Jircháře"
+  },
+  {
+    "Street": "Jírova"
+  },
+  {
+    "Street": "Jírovcova"
+  },
+  {
+    "Street": "Josefská"
+  },
+  {
+    "Street": "Josefy Faimonové"
+  },
+  {
+    "Street": "Joštova"
+  },
+  {
+    "Street": "Jubilejní"
+  },
+  {
+    "Street": "Jugoslávská"
+  },
+  {
+    "Street": "Juliánovské náměstí"
+  },
+  {
+    "Street": "Jundrovská"
+  },
+  {
+    "Street": "Jungmannova"
+  },
+  {
+    "Street": "K Povodí"
+  },
+  {
+    "Street": "K Západi"
+  },
+  {
+    "Street": "Káčata"
+  },
+  {
+    "Street": "Kachlíkova"
+  },
+  {
+    "Street": "Kainarova"
+  },
+  {
+    "Street": "Kallabova"
+  },
+  {
+    "Street": "Kaloudova"
+  },
+  {
+    "Street": "Kamechy"
+  },
+  {
+    "Street": "Kamenačky"
+  },
+  {
+    "Street": "Kamenice"
+  },
+  {
+    "Street": "Kamenná"
+  },
+  {
+    "Street": "Kamenná čtvrť"
+  },
+  {
+    "Street": "Kamenný vrch"
+  },
+  {
+    "Street": "Kamínky"
+  },
+  {
+    "Street": "Kapucínské náměstí"
+  },
+  {
+    "Street": "Karásek"
+  },
+  {
+    "Street": "Karáskovo náměstí"
+  },
+  {
+    "Street": "Karkulínova"
+  },
+  {
+    "Street": "Karlova"
+  },
+  {
+    "Street": "Karolíny Světlé"
+  },
+  {
+    "Street": "Kartouzská"
+  },
+  {
+    "Street": "Kaštanová"
+  },
+  {
+    "Street": "Kavčí"
+  },
+  {
+    "Street": "Kejbaly"
+  },
+  {
+    "Street": "Keřová"
+  },
+  {
+    "Street": "Kigginsova"
+  },
+  {
+    "Street": "Klácelova"
+  },
+  {
+    "Street": "Klajdovská"
+  },
+  {
+    "Street": "Klatovská"
+  },
+  {
+    "Street": "Klecandova"
+  },
+  {
+    "Street": "Klimešova"
+  },
+  {
+    "Street": "Klímova"
+  },
+  {
+    "Street": "Klíny"
+  },
+  {
+    "Street": "Klobásova"
+  },
+  {
+    "Street": "Kluchova"
+  },
+  {
+    "Street": "Klusáčkova"
+  },
+  {
+    "Street": "Kneslova"
+  },
+  {
+    "Street": "Kníničky"
+  },
+  {
+    "Street": "Kníničská"
+  },
+  {
+    "Street": "Kobližná"
+  },
+  {
+    "Street": "Kociánka"
+  },
+  {
+    "Street": "Kohoutovická"
+  },
+  {
+    "Street": "Kolaříkova"
+  },
+  {
+    "Street": "Kolejní"
+  },
+  {
+    "Street": "Kolískova"
+  },
+  {
+    "Street": "Koliště"
+  },
+  {
+    "Street": "Komárovské nábřeží"
+  },
+  {
+    "Street": "Komenského náměstí"
+  },
+  {
+    "Street": "Komprdova"
+  },
+  {
+    "Street": "Konečného náměstí"
+  },
+  {
+    "Street": "Koniklecová"
+  },
+  {
+    "Street": "Konradova"
+  },
+  {
+    "Street": "Kopečná"
+  },
+  {
+    "Street": "Koperníkova"
+  },
+  {
+    "Street": "Kopretinová"
+  },
+  {
+    "Street": "Korejská"
+  },
+  {
+    "Street": "Körnerova"
+  },
+  {
+    "Street": "Kosmákova"
+  },
+  {
+    "Street": "Kosmova"
+  },
+  {
+    "Street": "Košinova"
+  },
+  {
+    "Street": "Košuličova"
+  },
+  {
+    "Street": "Kotěrova"
+  },
+  {
+    "Street": "Kotkova"
+  },
+  {
+    "Street": "Kotlanova"
+  },
+  {
+    "Street": "Kotlářská"
+  },
+  {
+    "Street": "Kounicova"
+  },
+  {
+    "Street": "Kovácká"
+  },
+  {
+    "Street": "Kovařovicova"
+  },
+  {
+    "Street": "Kozí"
+  },
+  {
+    "Street": "Kozí Horka"
+  },
+  {
+    "Street": "Koželužská"
+  },
+  {
+    "Street": "Králova"
+  },
+  {
+    "Street": "Královopolská"
+  },
+  {
+    "Street": "Krásného"
+  },
+  {
+    "Street": "Krausova"
+  },
+  {
+    "Street": "Kraví hora"
+  },
+  {
+    "Street": "Krejčího"
+  },
+  {
+    "Street": "Kristenova"
+  },
+  {
+    "Street": "Krkoškova"
+  },
+  {
+    "Street": "Krokova"
+  },
+  {
+    "Street": "Kroměřížská"
+  },
+  {
+    "Street": "Krondlova"
+  },
+  {
+    "Street": "Kroupova"
+  },
+  {
+    "Street": "Krušinova"
+  },
+  {
+    "Street": "Krymská"
+  },
+  {
+    "Street": "Křehlíkova"
+  },
+  {
+    "Street": "Křenová"
+  },
+  {
+    "Street": "Křídlovická"
+  },
+  {
+    "Street": "Křivánkovo náměstí"
+  },
+  {
+    "Street": "Křivánky"
+  },
+  {
+    "Street": "Křižíkova"
+  },
+  {
+    "Street": "Křížkovského"
+  },
+  {
+    "Street": "Křížová"
+  },
+  {
+    "Street": "Kšírova"
+  },
+  {
+    "Street": "Kubánská"
+  },
+  {
+    "Street": "Kubíčkova"
+  },
+  {
+    "Street": "Kubíkova"
+  },
+  {
+    "Street": "Kučerova"
+  },
+  {
+    "Street": "Kudelova"
+  },
+  {
+    "Street": "Kuldova"
+  },
+  {
+    "Street": "Kurská"
+  },
+  {
+    "Street": "Kuršova"
+  },
+  {
+    "Street": "Kuřimská"
+  },
+  {
+    "Street": "Květinářská"
+  },
+  {
+    "Street": "Kyjevská"
+  },
+  {
+    "Street": "Kytnerova"
+  },
+  {
+    "Street": "Labská"
+  },
+  {
+    "Street": "Langrova"
+  },
+  {
+    "Street": "Lány"
+  },
+  {
+    "Street": "Laštůvkova"
+  },
+  {
+    "Street": "Lazaretní"
+  },
+  {
+    "Street": "Ledárenská"
+  },
+  {
+    "Street": "Leitnerova"
+  },
+  {
+    "Street": "Lelkova"
+  },
+  {
+    "Street": "Lerchova"
+  },
+  {
+    "Street": "Lesní"
+  },
+  {
+    "Street": "Lesnická"
+  },
+  {
+    "Street": "Letovická"
+  },
+  {
+    "Street": "Libušina třída"
+  },
+  {
+    "Street": "Libušino údolí"
+  },
+  {
+    "Street": "Lidická"
+  },
+  {
+    "Street": "Lieberzeitova"
+  },
+  {
+    "Street": "Lísky"
+  },
+  {
+    "Street": "Líšeňská"
+  },
+  {
+    "Street": "Lomená"
+  },
+  {
+    "Street": "Londýnské náměstí"
+  },
+  {
+    "Street": "Loosova"
+  },
+  {
+    "Street": "Luční"
+  },
+  {
+    "Street": "Ludmily Konečné"
+  },
+  {
+    "Street": "Lužánecká"
+  },
+  {
+    "Street": "Lužánecký park"
+  },
+  {
+    "Street": "Lužná"
+  },
+  {
+    "Street": "Mácova"
+  },
+  {
+    "Street": "Mahenova"
+  },
+  {
+    "Street": "Majdalenky"
+  },
+  {
+    "Street": "Májová"
+  },
+  {
+    "Street": "Makovského náměstí"
+  },
+  {
+    "Street": "Malinovského náměstí"
+  },
+  {
+    "Street": "Malínská"
+  },
+  {
+    "Street": "Mánesova"
+  },
+  {
+    "Street": "Mariánské náměstí"
+  },
+  {
+    "Street": "Mariánské údolí"
+  },
+  {
+    "Street": "Marie Hübnerové"
+  },
+  {
+    "Street": "Marie Kudeříkové"
+  },
+  {
+    "Street": "Marie Majerové"
+  },
+  {
+    "Street": "Marie Steyskalové"
+  },
+  {
+    "Street": "Markéty Kuncové"
+  },
+  {
+    "Street": "Markovičova"
+  },
+  {
+    "Street": "Maříkova"
+  },
+  {
+    "Street": "Masarova"
+  },
+  {
+    "Street": "Masarykova"
+  },
+  {
+    "Street": "Masná"
+  },
+  {
+    "Street": "Matzenauerova"
+  },
+  {
+    "Street": "Mazourova"
+  },
+  {
+    "Street": "Mečová"
+  },
+  {
+    "Street": "Medlánecká"
+  },
+  {
+    "Street": "Medlánecký kopec"
+  },
+  {
+    "Street": "Mendlovo náměstí"
+  },
+  {
+    "Street": "Měnínská"
+  },
+  {
+    "Street": "Merhautova"
+  },
+  {
+    "Street": "Měřičkova"
+  },
+  {
+    "Street": "Míčkova"
+  },
+  {
+    "Street": "Mifkova"
+  },
+  {
+    "Street": "Michalova"
+  },
+  {
+    "Street": "Mikulčická"
+  },
+  {
+    "Street": "Mikulovská"
+  },
+  {
+    "Street": "Milady Horákové"
+  },
+  {
+    "Street": "Milénova"
+  },
+  {
+    "Street": "Minoritská"
+  },
+  {
+    "Street": "Minská"
+  },
+  {
+    "Street": "Mírová"
+  },
+  {
+    "Street": "Mlýnská"
+  },
+  {
+    "Street": "Modřická"
+  },
+  {
+    "Street": "Modřínová"
+  },
+  {
+    "Street": "Mojmírovo náměstí"
+  },
+  {
+    "Street": "Molákova"
+  },
+  {
+    "Street": "Moldavská"
+  },
+  {
+    "Street": "Moravanská"
+  },
+  {
+    "Street": "Moravská"
+  },
+  {
+    "Street": "Moravské náměstí"
+  },
+  {
+    "Street": "Mozolky"
+  },
+  {
+    "Street": "Mučednická"
+  },
+  {
+    "Street": "Musilova"
+  },
+  {
+    "Street": "Muškátová"
+  },
+  {
+    "Street": "Mutěnická"
+  },
+  {
+    "Street": "Myslínova"
+  },
+  {
+    "Street": "Myslivní"
+  },
+  {
+    "Street": "Na lukách"
+  },
+  {
+    "Street": "Na návsi"
+  },
+  {
+    "Street": "Na pískové cestě"
+  },
+  {
+    "Street": "Nad Přehradou"
+  },
+  {
+    "Street": "Nádražní"
+  },
+  {
+    "Street": "Nádražní pod viaduktem"
+  },
+  {
+    "Street": "Nádražní(ulice) -"
+  },
+  {
+    "Street": "Nálepkova"
+  },
+  {
+    "Street": "nám. Karla IV."
+  },
+  {
+    "Street": "náměstí"
+  },
+  {
+    "Street": "náměstí Karla IV."
+  },
+  {
+    "Street": "náměstí Míru"
+  },
+  {
+    "Street": "náměstí Republiky"
+  },
+  {
+    "Street": "náměstí SNP"
+  },
+  {
+    "Street": "náměstí Svobody"
+  },
+  {
+    "Street": "náměstí Svornosti"
+  },
+  {
+    "Street": "Náplavka"
+  },
+  {
+    "Street": "Nejedlého"
+  },
+  {
+    "Street": "Neklež"
+  },
+  {
+    "Street": "Nerudova"
+  },
+  {
+    "Street": "Netopýrky"
+  },
+  {
+    "Street": "Netroufalky"
+  },
+  {
+    "Street": "Nezamyslova"
+  },
+  {
+    "Street": "Nezvalova"
+  },
+  {
+    "Street": "Nopova"
+  },
+  {
+    "Street": "Nováčkova"
+  },
+  {
+    "Street": "Nové náměstí"
+  },
+  {
+    "Street": "Nové sady"
+  },
+  {
+    "Street": "Novobranská"
+  },
+  {
+    "Street": "Novolíšeňská"
+  },
+  {
+    "Street": "Novoměstská"
+  },
+  {
+    "Street": "Novomoravanská"
+  },
+  {
+    "Street": "Oblá"
+  },
+  {
+    "Street": "Obřanská"
+  },
+  {
+    "Street": "Obřanská(ulice) - most"
+  },
+  {
+    "Street": "Obvodová"
+  },
+  {
+    "Street": "Odbojářská"
+  },
+  {
+    "Street": "Oderská"
+  },
+  {
+    "Street": "Okrouhlá"
+  },
+  {
+    "Street": "Okružní"
+  },
+  {
+    "Street": "Olbrachtovo náměstí"
+  },
+  {
+    "Street": "Olomoucká"
+  },
+  {
+    "Street": "Ondráčkova"
+  },
+  {
+    "Street": "Ondrouškova"
+  },
+  {
+    "Street": "Opálkova"
+  },
+  {
+    "Street": "Opletalova"
+  },
+  {
+    "Street": "Optátova"
+  },
+  {
+    "Street": "Opuštěná"
+  },
+  {
+    "Street": "Orlí"
+  },
+  {
+    "Street": "Osamělá"
+  },
+  {
+    "Street": "Osová"
+  },
+  {
+    "Street": "Ostrá"
+  },
+  {
+    "Street": "Ostravská"
+  },
+  {
+    "Street": "Ostrovačická"
+  },
+  {
+    "Street": "Otakara Ševčíka"
+  },
+  {
+    "Street": "Otevřená"
+  },
+  {
+    "Street": "Ovocná"
+  },
+  {
+    "Street": "Palackého náměstí"
+  },
+  {
+    "Street": "Palackého třída"
+  },
+  {
+    "Street": "Palackého vrch"
+  },
+  {
+    "Street": "Palachovo náměstí"
+  },
+  {
+    "Street": "Pálavské náměstí"
+  },
+  {
+    "Street": "Palcary"
+  },
+  {
+    "Street": "Palírenská"
+  },
+  {
+    "Street": "Pastrnkova"
+  },
+  {
+    "Street": "Pastviny"
+  },
+  {
+    "Street": "Páteřní"
+  },
+  {
+    "Street": "Pavlovská"
+  },
+  {
+    "Street": "Pechova"
+  },
+  {
+    "Street": "Pekařská"
+  },
+  {
+    "Street": "Pěkná"
+  },
+  {
+    "Street": "Perunova"
+  },
+  {
+    "Street": "Pešinova"
+  },
+  {
+    "Street": "Petlákova"
+  },
+  {
+    "Street": "Petra Křivky"
+  },
+  {
+    "Street": "Petřvaldská"
+  },
+  {
+    "Street": "Pionýrská"
+  },
+  {
+    "Street": "Pisárecká"
+  },
+  {
+    "Street": "Píškova"
+  },
+  {
+    "Street": "Plachty"
+  },
+  {
+    "Street": "Plotní"
+  },
+  {
+    "Street": "Plovdivská"
+  },
+  {
+    "Street": "Plynárenská"
+  },
+  {
+    "Street": "Pod Hády"
+  },
+  {
+    "Street": "Pod Horkou"
+  },
+  {
+    "Street": "Pod kaštany"
+  },
+  {
+    "Street": "Pod kopcem"
+  },
+  {
+    "Street": "Pod nemocnicí"
+  },
+  {
+    "Street": "Podbělová"
+  },
+  {
+    "Street": "Poděbradova"
+  },
+  {
+    "Street": "Podhájí"
+  },
+  {
+    "Street": "Podhrázní"
+  },
+  {
+    "Street": "Podlesí"
+  },
+  {
+    "Street": "Podlipná"
+  },
+  {
+    "Street": "Podnásepní"
+  },
+  {
+    "Street": "Podolská"
+  },
+  {
+    "Street": "Podpěrova"
+  },
+  {
+    "Street": "Podruhova"
+  },
+  {
+    "Street": "Podsedky"
+  },
+  {
+    "Street": "Podstránská"
+  },
+  {
+    "Street": "Podveská"
+  },
+  {
+    "Street": "Podzimní"
+  },
+  {
+    "Street": "Pohankova"
+  },
+  {
+    "Street": "Poláčkova"
+  },
+  {
+    "Street": "Polní"
+  },
+  {
+    "Street": "Ponava"
+  },
+  {
+    "Street": "Ponávka"
+  },
+  {
+    "Street": "Ponětovická"
+  },
+  {
+    "Street": "Poříčí"
+  },
+  {
+    "Street": "Poštovská"
+  },
+  {
+    "Street": "Potácelova"
+  },
+  {
+    "Street": "Pratecká"
+  },
+  {
+    "Street": "Pražská"
+  },
+  {
+    "Street": "Prokešova"
+  },
+  {
+    "Street": "Prokofjevova"
+  },
+  {
+    "Street": "Prostějovská"
+  },
+  {
+    "Street": "Provazníkova"
+  },
+  {
+    "Street": "Prušánecká"
+  },
+  {
+    "Street": "Přemyslovo náměstí"
+  },
+  {
+    "Street": "Příční"
+  },
+  {
+    "Street": "Příkop"
+  },
+  {
+    "Street": "Přímá"
+  },
+  {
+    "Street": "Přístavní"
+  },
+  {
+    "Street": "Přívrat"
+  },
+  {
+    "Street": "Pšeník"
+  },
+  {
+    "Street": "Ptašínského"
+  },
+  {
+    "Street": "Puchýřova"
+  },
+  {
+    "Street": "Purkyňova"
+  },
+  {
+    "Street": "Radlas"
+  },
+  {
+    "Street": "Radnická"
+  },
+  {
+    "Street": "Raisova"
+  },
+  {
+    "Street": "Rakovecká"
+  },
+  {
+    "Street": "Rašínova"
+  },
+  {
+    "Street": "Rázusova"
+  },
+  {
+    "Street": "Rebešovická"
+  },
+  {
+    "Street": "Reissigova"
+  },
+  {
+    "Street": "Rekreační"
+  },
+  {
+    "Street": "Renčova"
+  },
+  {
+    "Street": "Renneská třída"
+  },
+  {
+    "Street": "Rerychova"
+  },
+  {
+    "Street": "Resslova"
+  },
+  {
+    "Street": "Riegrova"
+  },
+  {
+    "Street": "Ríšova"
+  },
+  {
+    "Street": "Rokytova"
+  },
+  {
+    "Street": "Rolencova"
+  },
+  {
+    "Street": "Rolnická"
+  },
+  {
+    "Street": "Ronovská"
+  },
+  {
+    "Street": "Rooseveltova"
+  },
+  {
+    "Street": "Rosická"
+  },
+  {
+    "Street": "Rostislavovo náměstí"
+  },
+  {
+    "Street": "Rotalova"
+  },
+  {
+    "Street": "Rousínovská"
+  },
+  {
+    "Street": "Roviny"
+  },
+  {
+    "Street": "Rozdrojovická"
+  },
+  {
+    "Street": "Rozmarýnová"
+  },
+  {
+    "Street": "Ruda"
+  },
+  {
+    "Street": "Rumiště"
+  },
+  {
+    "Street": "Růženec"
+  },
+  {
+    "Street": "Rybkova"
+  },
+  {
+    "Street": "Rybnická"
+  },
+  {
+    "Street": "Rybníček"
+  },
+  {
+    "Street": "Ryšánkova"
+  },
+  {
+    "Street": "Řečkovická"
+  },
+  {
+    "Street": "Řehořova"
+  },
+  {
+    "Street": "Řezáčova"
+  },
+  {
+    "Street": "Říčanská"
+  },
+  {
+    "Street": "řipská"
+  },
+  {
+    "Street": "Řípská"
+  },
+  {
+    "Street": "Sadařská"
+  },
+  {
+    "Street": "Sadová"
+  },
+  {
+    "Street": "Saidova"
+  },
+  {
+    "Street": "Sedláčkova"
+  },
+  {
+    "Street": "Seifertova"
+  },
+  {
+    "Street": "Sekaninova"
+  },
+  {
+    "Street": "Selská"
+  },
+  {
+    "Street": "Sevastopolská"
+  },
+  {
+    "Street": "Schreberovy zahrádky"
+  },
+  {
+    "Street": "Schwaigrova"
+  },
+  {
+    "Street": "Sibiřská"
+  },
+  {
+    "Street": "Sirotkova"
+  },
+  {
+    "Street": "Skácelova"
+  },
+  {
+    "Street": "Skandinávská"
+  },
+  {
+    "Street": "Skandinávská(ulice) - TESCO"
+  },
+  {
+    "Street": "Sklenářská"
+  },
+  {
+    "Street": "Skopalíkova"
+  },
+  {
+    "Street": "Skorkovského"
+  },
+  {
+    "Street": "Skořepka"
+  },
+  {
+    "Street": "Skrejš"
+  },
+  {
+    "Street": "Skryjova"
+  },
+  {
+    "Street": "Skřivanova"
+  },
+  {
+    "Street": "Sladkého"
+  },
+  {
+    "Street": "Sládkova"
+  },
+  {
+    "Street": "Sladovnická"
+  },
+  {
+    "Street": "Slámova"
+  },
+  {
+    "Street": "Slatinská"
+  },
+  {
+    "Street": "Slavkovská"
+  },
+  {
+    "Street": "Slevačská"
+  },
+  {
+    "Street": "Slívova"
+  },
+  {
+    "Street": "Slovákova"
+  },
+  {
+    "Street": "Slovanské náměstí"
+  },
+  {
+    "Street": "Slovinská"
+  },
+  {
+    "Street": "Slunečná"
+  },
+  {
+    "Street": "Slunná"
+  },
+  {
+    "Street": "Smetanova"
+  },
+  {
+    "Street": "Smutná"
+  },
+  {
+    "Street": "Soběšice"
+  },
+  {
+    "Street": "Soběšická"
+  },
+  {
+    "Street": "Sochorova"
+  },
+  {
+    "Street": "Sokolova"
+  },
+  {
+    "Street": "Solniční"
+  },
+  {
+    "Street": "Souběžná"
+  },
+  {
+    "Street": "Souhrady"
+  },
+  {
+    "Street": "Soukenická"
+  },
+  {
+    "Street": "Spáčilova"
+  },
+  {
+    "Street": "Spěšná"
+  },
+  {
+    "Street": "splaviska"
+  },
+  {
+    "Street": "Spodní"
+  },
+  {
+    "Street": "Spojovací"
+  },
+  {
+    "Street": "Spolková"
+  },
+  {
+    "Street": "Sportovní"
+  },
+  {
+    "Street": "Sportovní nábřeží"
+  },
+  {
+    "Street": "Srbská"
+  },
+  {
+    "Street": "Srnčí"
+  },
+  {
+    "Street": "Stamicova"
+  },
+  {
+    "Street": "Staňkova"
+  },
+  {
+    "Street": "Stará"
+  },
+  {
+    "Street": "Stará dálnice"
+  },
+  {
+    "Street": "Stará osada"
+  },
+  {
+    "Street": "Staré náměstí"
+  },
+  {
+    "Street": "Starobrněnská"
+  },
+  {
+    "Street": "Stavební"
+  },
+  {
+    "Street": "Strakatého"
+  },
+  {
+    "Street": "Stránská"
+  },
+  {
+    "Street": "Stránského"
+  },
+  {
+    "Street": "Strážnická"
+  },
+  {
+    "Street": "Strmá"
+  },
+  {
+    "Street": "Strnadova"
+  },
+  {
+    "Street": "Střední"
+  },
+  {
+    "Street": "Střelnice"
+  },
+  {
+    "Street": "Studánka"
+  },
+  {
+    "Street": "Sukova"
+  },
+  {
+    "Street": "Suzova"
+  },
+  {
+    "Street": "Svah"
+  },
+  {
+    "Street": "Svánovského"
+  },
+  {
+    "Street": "Svatopluka Čecha"
+  },
+  {
+    "Street": "Svatoplukova"
+  },
+  {
+    "Street": "Svážná"
+  },
+  {
+    "Street": "Svitavská"
+  },
+  {
+    "Street": "Svratecká"
+  },
+  {
+    "Street": "Synkova"
+  },
+  {
+    "Street": "Šámalova"
+  },
+  {
+    "Street": "Šaumannova"
+  },
+  {
+    "Street": "Šedova"
+  },
+  {
+    "Street": "Šelepova"
+  },
+  {
+    "Street": "Šemberova"
+  },
+  {
+    "Street": "Šeránkova"
+  },
+  {
+    "Street": "Šeříková"
+  },
+  {
+    "Street": "Šikulova"
+  },
+  {
+    "Street": "Šilingrovo náměstí"
+  },
+  {
+    "Street": "Šimáčkova"
+  },
+  {
+    "Street": "Široká"
+  },
+  {
+    "Street": "Škroupova"
+  },
+  {
+    "Street": "Šmahova"
+  },
+  {
+    "Street": "Šmejkalova"
+  },
+  {
+    "Street": "Špilberk"
+  },
+  {
+    "Street": "Špirkova"
+  },
+  {
+    "Street": "Špitálka"
+  },
+  {
+    "Street": "Šrámkova"
+  },
+  {
+    "Street": "Šromova"
+  },
+  {
+    "Street": "Štefáčkova"
+  },
+  {
+    "Street": "Štefánikova"
+  },
+  {
+    "Street": "Štěpánská"
+  },
+  {
+    "Street": "Štítného"
+  },
+  {
+    "Street": "Štouračova"
+  },
+  {
+    "Street": "Štursova"
+  },
+  {
+    "Street": "Šujanovo náměstí"
+  },
+  {
+    "Street": "Šumavská"
+  },
+  {
+    "Street": "Švermova"
+  },
+  {
+    "Street": "Tábor"
+  },
+  {
+    "Street": "Táborská"
+  },
+  {
+    "Street": "Terezy Novákové"
+  },
+  {
+    "Street": "Teyschlova"
+  },
+  {
+    "Street": "Těžební"
+  },
+  {
+    "Street": "Tilhonova"
+  },
+  {
+    "Street": "Tišnovská"
+  },
+  {
+    "Street": "Tkalcovská"
+  },
+  {
+    "Street": "Točná"
+  },
+  {
+    "Street": "Tomáškova"
+  },
+  {
+    "Street": "Tomkovo náměstí"
+  },
+  {
+    "Street": "Tovačovského"
+  },
+  {
+    "Street": "Tovární"
+  },
+  {
+    "Street": "Travní"
+  },
+  {
+    "Street": "Trávníčkova"
+  },
+  {
+    "Street": "Trávníky"
+  },
+  {
+    "Street": "Trnitá"
+  },
+  {
+    "Street": "Trnkova"
+  },
+  {
+    "Street": "Trýbova"
+  },
+  {
+    "Street": "Tržní"
+  },
+  {
+    "Street": "třída Kpt. Jaroše"
+  },
+  {
+    "Street": "Třískalova"
+  },
+  {
+    "Street": "Tuháčkova"
+  },
+  {
+    "Street": "Tůmova"
+  },
+  {
+    "Street": "Turgeněvova"
+  },
+  {
+    "Street": "Turistická"
+  },
+  {
+    "Street": "Tuřanka"
+  },
+  {
+    "Street": "Tuřanské náměstí"
+  },
+  {
+    "Street": "Tylova"
+  },
+  {
+    "Street": "Tyršova"
+  },
+  {
+    "Street": "Tyršův sad"
+  },
+  {
+    "Street": "U hřiště"
+  },
+  {
+    "Street": "U Křivé borovice"
+  },
+  {
+    "Street": "U pošty"
+  },
+  {
+    "Street": "U Velké ceny"
+  },
+  {
+    "Street": "U vlečky"
+  },
+  {
+    "Street": "U vodárny"
+  },
+  {
+    "Street": "U Vránova mlýna"
+  },
+  {
+    "Street": "U zoologické zahrady"
+  },
+  {
+    "Street": "Údolí oddechu"
+  },
+  {
+    "Street": "Údolní"
+  },
+  {
+    "Street": "Uhelná"
+  },
+  {
+    "Street": "Uhlířova"
+  },
+  {
+    "Street": "Újezdy"
+  },
+  {
+    "Street": "Ukrajinská"
+  },
+  {
+    "Street": "Úlehle"
+  },
+  {
+    "Street": "ulice Kosmonautů"
+  },
+  {
+    "Street": "Ulička"
+  },
+  {
+    "Street": "Ulrychova"
+  },
+  {
+    "Street": "Úpatní"
+  },
+  {
+    "Street": "Uprkova"
+  },
+  {
+    "Street": "Útěchovská"
+  },
+  {
+    "Street": "Úvoz"
+  },
+  {
+    "Street": "Uzbecká"
+  },
+  {
+    "Street": "Uzká"
+  },
+  {
+    "Street": "Úzká"
+  },
+  {
+    "Street": "Úzká(ulice) Vaňkovka"
+  },
+  {
+    "Street": "V rejích"
+  },
+  {
+    "Street": "V Újezdech"
+  },
+  {
+    "Street": "Vackova"
+  },
+  {
+    "Street": "Václavkova"
+  },
+  {
+    "Street": "Václavská"
+  },
+  {
+    "Street": "Vaculíkova"
+  },
+  {
+    "Street": "Vachova"
+  },
+  {
+    "Street": "Valchařská"
+  },
+  {
+    "Street": "Valouškova"
+  },
+  {
+    "Street": "Valtická"
+  },
+  {
+    "Street": "Vančurova"
+  },
+  {
+    "Street": "Vaňhalova"
+  },
+  {
+    "Street": "Vaníčkova"
+  },
+  {
+    "Street": "Vaňkovka"
+  },
+  {
+    "Street": "Vaňkovo náměstí"
+  },
+  {
+    "Street": "Vavřinecká"
+  },
+  {
+    "Street": "Vážného"
+  },
+  {
+    "Street": "Ve Vaňkovce"
+  },
+  {
+    "Street": "Vedlejší"
+  },
+  {
+    "Street": "Vejrostova"
+  },
+  {
+    "Street": "Veletržní"
+  },
+  {
+    "Street": "Velkomoravská"
+  },
+  {
+    "Street": "Velkopavlovická"
+  },
+  {
+    "Street": "Veselá"
+  },
+  {
+    "Street": "Veslařská"
+  },
+  {
+    "Street": "Věstonická"
+  },
+  {
+    "Street": "Veveří"
+  },
+  {
+    "Street": "Vídeňská"
+  },
+  {
+    "Street": "Vinařického"
+  },
+  {
+    "Street": "Viniční"
+  },
+  {
+    "Street": "Vinohradská"
+  },
+  {
+    "Street": "Vinohrady"
+  },
+  {
+    "Street": "Vlárská"
+  },
+  {
+    "Street": "Vlčnovská"
+  },
+  {
+    "Street": "Vlhká"
+  },
+  {
+    "Street": "Vlkova"
+  },
+  {
+    "Street": "Vlnitá"
+  },
+  {
+    "Street": "Vltavská"
+  },
+  {
+    "Street": "Vodařská"
+  },
+  {
+    "Street": "Vodní"
+  },
+  {
+    "Street": "Vodova"
+  },
+  {
+    "Street": "Vojanova"
+  },
+  {
+    "Street": "Vomáčkova"
+  },
+  {
+    "Street": "Vondrákova"
+  },
+  {
+    "Street": "Voroněžská"
+  },
+  {
+    "Street": "Voříškova"
+  },
+  {
+    "Street": "Vránova"
+  },
+  {
+    "Street": "Vranovská"
+  },
+  {
+    "Street": "Vrchlického sad"
+  },
+  {
+    "Street": "Vyhlídalova"
+  },
+  {
+    "Street": "Vycházková"
+  },
+  {
+    "Street": "Vychodilova"
+  },
+  {
+    "Street": "Výstaviště"
+  },
+  {
+    "Street": "Výstavní"
+  },
+  {
+    "Street": "Wainerovo náměstí"
+  },
+  {
+    "Street": "Weissova"
+  },
+  {
+    "Street": "Wilsonův les"
+  },
+  {
+    "Street": "Wollmanova"
+  },
+  {
+    "Street": "Ypsilantiho"
+  },
+  {
+    "Street": "Za divadlem"
+  },
+  {
+    "Street": "Za Kněžským hájkem"
+  },
+  {
+    "Street": "Za mostem"
+  },
+  {
+    "Street": "Za školou"
+  },
+  {
+    "Street": "Za vodojemem"
+  },
+  {
+    "Street": "Zábrdovická"
+  },
+  {
+    "Street": "Zahradnická"
+  },
+  {
+    "Street": "Záhřebská"
+  },
+  {
+    "Street": "Zaječí hora"
+  },
+  {
+    "Street": "Zámecká"
+  },
+  {
+    "Street": "Zámečnická"
+  },
+  {
+    "Street": "Zamilovaný hájek"
+  },
+  {
+    "Street": "Zaoralova"
+  },
+  {
+    "Street": "Zapletalova"
+  },
+  {
+    "Street": "Zborovská"
+  },
+  {
+    "Street": "Zderadova"
+  },
+  {
+    "Street": "Zeleného"
+  },
+  {
+    "Street": "Zelná"
+  },
+  {
+    "Street": "Zelný trh"
+  },
+  {
+    "Street": "Zemědělská"
+  },
+  {
+    "Street": "Zeyerova"
+  },
+  {
+    "Street": "Zezulova"
+  },
+  {
+    "Street": "Zlámanky"
+  },
+  {
+    "Street": "Zoologická zahrada"
+  },
+  {
+    "Street": "Zubatého"
+  },
+  {
+    "Street": "Zvěřinova"
+  },
+  {
+    "Street": "Zvonařka"
+  },
+  {
+    "Street": "Zvonařka UAN"
+  },
+  {
+    "Street": "Žabovřeská"
+  },
+  {
+    "Street": "žabovřeské zahrádky"
+  },
+  {
+    "Street": "Žarošická"
+  },
+  {
+    "Street": "Žebětínská"
+  },
+  {
+    "Street": "Železniční"
+  },
+  {
+    "Street": "Žerotínovo náměstí"
+  },
+  {
+    "Street": "Žitná"
+  },
+  {
+    "Street": "Živného"
+  },
+  {
+    "Street": "Životského"
+  },
+  {
+    "Street": "Žižkova"
+  },
+  {
+    "Street": "Žlutý kopec"
+  },
+  {
+    "Street": "Akátová"
+  },
+  {
+    "Street": "Andrýskova"
+  },
+  {
+    "Street": "Anenská"
+  },
+  {
+    "Street": "Antala Staška"
+  },
+  {
+    "Street": "Antonína Slavíka"
+  },
+  {
+    "Street": "Arne Nováka"
+  },
+  {
+    "Street": "Atriová"
+  },
+  {
+    "Street": "Auerswaldova"
+  },
+  {
+    "Street": "Axmanova"
+  },
+  {
+    "Street": "Babičkova"
+  },
+  {
+    "Street": "Bačovského"
+  },
+  {
+    "Street": "Bartákova"
+  },
+  {
+    "Street": "Bartošova"
+  },
+  {
+    "Street": "Barvičova"
+  },
+  {
+    "Street": "Barvířská"
+  },
+  {
+    "Street": "Bašného"
+  },
+  {
+    "Street": "Bedřichovická"
+  },
+  {
+    "Street": "Bělidla"
+  },
+  {
+    "Street": "Berkova"
+  },
+  {
+    "Street": "Besední"
+  },
+  {
+    "Street": "Bešůvka"
+  },
+  {
+    "Street": "Bezejmenná"
+  },
+  {
+    "Street": "Bidláky"
+  },
+  {
+    "Street": "Bílá Hora"
+  },
+  {
+    "Street": "Bílovická"
+  },
+  {
+    "Street": "Bítešská"
+  },
+  {
+    "Street": "Blahoslavova"
+  },
+  {
+    "Street": "Blažovická"
+  },
+  {
+    "Street": "Blümlova"
+  },
+  {
+    "Street": "Boční"
+  },
+  {
+    "Street": "Bohatcova"
+  },
+  {
+    "Street": "Bohunická"
+  },
+  {
+    "Street": "Bohuňova"
+  },
+  {
+    "Street": "Bohuslava Martinů"
+  },
+  {
+    "Street": "Bochořákova"
+  },
+  {
+    "Street": "Borky"
+  },
+  {
+    "Street": "Borová"
+  },
+  {
+    "Street": "Bosonožské náměstí"
+  },
+  {
+    "Street": "Boženy Antonínové"
+  },
+  {
+    "Street": "Boženy Němcové"
+  },
+  {
+    "Street": "Brandlova"
+  },
+  {
+    "Street": "Branka"
+  },
+  {
+    "Street": "bratří Čapků"
+  },
+  {
+    "Street": "bratří Mrštíků"
+  },
+  {
+    "Street": "bratří Sapáků"
+  },
+  {
+    "Street": "Breitcetlova"
+  },
+  {
+    "Street": "Brněnky"
+  },
+  {
+    "Street": "Broskvoňová"
+  },
+  {
+    "Street": "Břeclavská"
+  },
+  {
+    "Street": "Břenkova"
+  },
+  {
+    "Street": "Břetislavova"
+  },
+  {
+    "Street": "Bučkova"
+  },
+  {
+    "Street": "Buchtova"
+  },
+  {
+    "Street": "Buková"
+  },
+  {
+    "Street": "Bulínova"
+  },
+  {
+    "Street": "Burešova"
+  },
+  {
+    "Street": "Cacovice"
+  },
+  {
+    "Street": "Cacovická"
+  },
+  {
+    "Street": "Cihelní"
+  },
+  {
+    "Street": "Colova"
+  },
+  {
+    "Street": "Ctiradova"
+  },
+  {
+    "Street": "Cupákova"
+  },
+  {
+    "Street": "Čajkovského"
+  },
+  {
+    "Street": "Čelakovského"
+  },
+  {
+    "Street": "Černohorská"
+  },
+  {
+    "Street": "Červinkova"
+  },
+  {
+    "Street": "Čihadla"
+  },
+  {
+    "Street": "Čtvrtě"
+  },
+  {
+    "Street": "Dačického"
+  },
+  {
+    "Street": "Davídkova"
+  },
+  {
+    "Street": "Dělnická"
+  },
+  {
+    "Street": "Desátková"
+  },
+  {
+    "Street": "Dillingerova"
+  },
+  {
+    "Street": "Divišova"
+  },
+  {
+    "Street": "Dlouhé hony"
+  },
+  {
+    "Street": "Dolní louky"
+  },
+  {
+    "Street": "Dolnice"
+  },
+  {
+    "Street": "Došlíkova"
+  },
+  {
+    "Street": "Doubí"
+  },
+  {
+    "Street": "Drážní"
+  },
+  {
+    "Street": "Drozdí"
+  },
+  {
+    "Street": "Družstevní"
+  },
+  {
+    "Street": "Dudíkova"
+  },
+  {
+    "Street": "Dunajevského"
+  },
+  {
+    "Street": "Dusíkova"
+  },
+  {
+    "Street": "Dvorecká"
+  },
+  {
+    "Street": "Dvořiště"
+  },
+  {
+    "Street": "ednat"
+  },
+  {
+    "Street": "Eimova"
+  },
+  {
+    "Street": "Eleonory Voračické"
+  },
+  {
+    "Street": "Elišky Machové"
+  },
+  {
+    "Street": "Erbenova"
+  },
+  {
+    "Street": "Ericha Roučky"
+  },
+  {
+    "Street": "Ernsta Macha"
+  },
+  {
+    "Street": "Faměrovo náměstí"
+  },
+  {
+    "Street": "Farní"
+  },
+  {
+    "Street": "Farského"
+  },
+  {
+    "Street": "Ferrerova"
+  },
+  {
+    "Street": "Fibichova"
+  },
+  {
+    "Street": "Fleischnerova"
+  },
+  {
+    "Street": "Florianova"
+  },
+  {
+    "Street": "Foustkova"
+  },
+  {
+    "Street": "Fričova"
+  },
+  {
+    "Street": "Fügnerova"
+  },
+  {
+    "Street": "gánu mimo MP"
+  },
+  {
+    "Street": "Gebauerova"
+  },
+  {
+    "Street": "gen. Píky"
+  },
+  {
+    "Street": "Glocova"
+  },
+  {
+    "Street": "Gogolova"
+  },
+  {
+    "Street": "Goldova"
+  },
+  {
+    "Street": "Grmelova"
+  },
+  {
+    "Street": "Grohova"
+  },
+  {
+    "Street": "Habřinova"
+  },
+  {
+    "Street": "Hájkova"
+  },
+  {
+    "Street": "Hálkova"
+  },
+  {
+    "Street": "Hansmannova"
+  },
+  {
+    "Street": "Hapalova"
+  },
+  {
+    "Street": "Havláskova"
+  },
+  {
+    "Street": "Havlenova"
+  },
+  {
+    "Street": "Havlišova"
+  },
+  {
+    "Street": "Havránkova"
+  },
+  {
+    "Street": "Heinrichova"
+  },
+  {
+    "Street": "Helenčina"
+  },
+  {
+    "Street": "Helfertova"
+  },
+  {
+    "Street": "Herbenova"
+  },
+  {
+    "Street": "Heydukova"
+  },
+  {
+    "Street": "Hilleho"
+  },
+  {
+    "Street": "Hlaváčkova"
+  },
+  {
+    "Street": "Hlaváčova"
+  },
+  {
+    "Street": "Hlávkova"
+  },
+  {
+    "Street": "Hliník"
+  },
+  {
+    "Street": "Hluboček"
+  },
+  {
+    "Street": "Hluboká"
+  },
+  {
+    "Street": "Hoblíkova"
+  },
+  {
+    "Street": "Hodonínská"
+  },
+  {
+    "Street": "Högrova"
+  },
+  {
+    "Street": "Hochmanova"
+  },
+  {
+    "Street": "Holásecká"
+  },
+  {
+    "Street": "Horákova"
+  },
+  {
+    "Street": "Horymírova"
+  },
+  {
+    "Street": "Hostinského"
+  },
+  {
+    "Street": "Hrabalova"
+  },
+  {
+    "Street": "Hrdličkova"
+  },
+  {
+    "Street": "Hrnčířká"
+  },
+  {
+    "Street": "Hromádkova"
+  },
+  {
+    "Street": "Hroznová"
+  },
+  {
+    "Street": "Hrubého"
+  },
+  {
+    "Street": "Hrušňová"
+  },
+  {
+    "Street": "Hubrova"
+  },
+  {
+    "Street": "Humenná"
+  },
+  {
+    "Street": "Hvězdárenská"
+  },
+  {
+    "Street": "Hvozdecká"
+  },
+  {
+    "Street": "Hvozdíková"
+  },
+  {
+    "Street": "Chaloupeckého náměstí"
+  },
+  {
+    "Street": "Chaloupkova"
+  },
+  {
+    "Street": "Chelčického"
+  },
+  {
+    "Street": "Chlubnova"
+  },
+  {
+    "Street": "Chrpová"
+  },
+  {
+    "Street": "Churého"
+  },
+  {
+    "Street": "Chvalovka"
+  },
+  {
+    "Street": "Chytilova"
+  },
+  {
+    "Street": "Ibsenova"
+  },
+  {
+    "Street": "Jahodová"
+  },
+  {
+    "Street": "Jakubská"
+  },
+  {
+    "Street": "Jalovcová"
+  },
+  {
+    "Street": "Jamborova"
+  },
+  {
+    "Street": "Jana Svobody"
+  },
+  {
+    "Street": "Jana Uhra"
+  },
+  {
+    "Street": "Járy Cimrmana"
+  },
+  {
+    "Street": "Jaselská"
+  },
+  {
+    "Street": "Jateční"
+  },
+  {
+    "Street": "Ječná"
+  },
+  {
+    "Street": "Jehličnatá"
+  },
+  {
+    "Street": "Jeronýmova"
+  },
+  {
+    "Street": "Jeřabinová"
+  },
+  {
+    "Street": "Jílová"
+  },
+  {
+    "Street": "Jiránkova"
+  },
+  {
+    "Street": "Jiříkovského"
+  },
+  {
+    "Street": "Joukalova"
+  },
+  {
+    "Street": "Jožky Jabůrkové"
+  },
+  {
+    "Street": "Jugoslávská(ulice) x Helfertova"
+  },
+  {
+    "Street": "Junácká"
+  },
+  {
+    "Street": "Jurkovičova"
+  },
+  {
+    "Street": "K Babě"
+  },
+  {
+    "Street": "K Bukovinám"
+  },
+  {
+    "Street": "K dálnici"
+  },
+  {
+    "Street": "K Lávce"
+  },
+  {
+    "Street": "K lázinkám"
+  },
+  {
+    "Street": "K lesu"
+  },
+  {
+    "Street": "K Rybníku"
+  },
+  {
+    "Street": "K sídlišti"
+  },
+  {
+    "Street": "K terminálu"
+  },
+  {
+    "Street": "K Železnici"
+  },
+  {
+    "Street": "Kabátníkova"
+  },
+  {
+    "Street": "Kaleckého"
+  },
+  {
+    "Street": "Kalvodova"
+  },
+  {
+    "Street": "Kamanova"
+  },
+  {
+    "Street": "Kameníčkova"
+  },
+  {
+    "Street": "Kamenomlýnský most"
+  },
+  {
+    "Street": "Kampelíkova"
+  },
+  {
+    "Street": "Karla Kryla"
+  },
+  {
+    "Street": "Kárníkova"
+  },
+  {
+    "Street": "Karpatská"
+  },
+  {
+    "Street": "Ke Statku"
+  },
+  {
+    "Street": "Kikrleho"
+  },
+  {
+    "Street": "Kladivova"
+  },
+  {
+    "Street": "Klarisky"
+  },
+  {
+    "Street": "Klášterského"
+  },
+  {
+    "Street": "Klicperova"
+  },
+  {
+    "Street": "Klíčova"
+  },
+  {
+    "Street": "Kmochova"
+  },
+  {
+    "Street": "Kohoutova"
+  },
+  {
+    "Street": "Koláčkova"
+  },
+  {
+    "Street": "Koliště x Bratislavská"
+  },
+  {
+    "Street": "Koliště(ulice)xMilady Horákové"
+  },
+  {
+    "Street": "Kollárova"
+  },
+  {
+    "Street": "Komárovská"
+  },
+  {
+    "Street": "Komínská"
+  },
+  {
+    "Street": "Konečného"
+  },
+  {
+    "Street": "Konopná"
+  },
+  {
+    "Street": "Kornerova"
+  },
+  {
+    "Street": "Kořenského"
+  },
+  {
+    "Street": "Kořískova"
+  },
+  {
+    "Street": "Kosíkova"
+  },
+  {
+    "Street": "Kostelíček"
+  },
+  {
+    "Street": "Koutného"
+  },
+  {
+    "Street": "Kouty"
+  },
+  {
+    "Street": "Kovářská"
+  },
+  {
+    "Street": "Krajní"
+  },
+  {
+    "Street": "Královka"
+  },
+  {
+    "Street": "Kratina"
+  },
+  {
+    "Street": "Kremličkova"
+  },
+  {
+    "Street": "Kroftova"
+  },
+  {
+    "Street": "Kronova"
+  },
+  {
+    "Street": "Křenová(ulice) x Vlhká"
+  },
+  {
+    "Street": "Křepelčí"
+  },
+  {
+    "Street": "Křivého"
+  },
+  {
+    "Street": "Kubelíkova"
+  },
+  {
+    "Street": "Kubešova"
+  },
+  {
+    "Street": "Kubova"
+  },
+  {
+    "Street": "Kudrnova"
+  },
+  {
+    "Street": "Kuklenská"
+  },
+  {
+    "Street": "Kunštátská"
+  },
+  {
+    "Street": "Kunzova"
+  },
+  {
+    "Street": "Kupkova"
+  },
+  {
+    "Street": "Kvapilova"
+  },
+  {
+    "Street": "Květná"
+  },
+  {
+    "Street": "Kyginsova"
+  },
+  {
+    "Street": "Lavičky"
+  },
+  {
+    "Street": "Letní"
+  },
+  {
+    "Street": "Liliová"
+  },
+  {
+    "Street": "Lipová"
+  },
+  {
+    "Street": "Lipská"
+  },
+  {
+    "Street": "Lískovecká"
+  },
+  {
+    "Street": "Listnatá"
+  },
+  {
+    "Street": "Lišejníková"
+  },
+  {
+    "Street": "Liští"
+  },
+  {
+    "Street": "Lozíbky"
+  },
+  {
+    "Street": "Lučiny"
+  },
+  {
+    "Street": "Lužická"
+  },
+  {
+    "Street": "Lužova"
+  },
+  {
+    "Street": "Lýskova"
+  },
+  {
+    "Street": "Máchalova"
+  },
+  {
+    "Street": "Malátova"
+  },
+  {
+    "Street": "Malíkova"
+  },
+  {
+    "Street": "Malostranská"
+  },
+  {
+    "Street": "Maničky"
+  },
+  {
+    "Street": "Marešova"
+  },
+  {
+    "Street": "Markůvky"
+  },
+  {
+    "Street": "Martina Ševčíka"
+  },
+  {
+    "Street": "Martinkova"
+  },
+  {
+    "Street": "Mařákova"
+  },
+  {
+    "Street": "Maškova"
+  },
+  {
+    "Street": "Mášova"
+  },
+  {
+    "Street": "Matalova"
+  },
+  {
+    "Street": "Mateří"
+  },
+  {
+    "Street": "Mathonova"
+  },
+  {
+    "Street": "Matlachova"
+  },
+  {
+    "Street": "Matulkova"
+  },
+  {
+    "Street": "Mečířova"
+  },
+  {
+    "Street": "Meluzínova"
+  },
+  {
+    "Street": "Meruňková"
+  },
+  {
+    "Street": "Měšťanská"
+  },
+  {
+    "Street": "Metodějova"
+  },
+  {
+    "Street": "Mezicestí"
+  },
+  {
+    "Street": "Mezírka"
+  },
+  {
+    "Street": "Mezníkova"
+  },
+  {
+    "Street": "Mikšíčkova"
+  },
+  {
+    "Street": "Mikuláškovo náměstí"
+  },
+  {
+    "Street": "Mlýnské nábřeží"
+  },
+  {
+    "Street": "Mojžíšova"
+  },
+  {
+    "Street": "Mostecká"
+  },
+  {
+    "Street": "Mošnova"
+  },
+  {
+    "Street": "Moutnická"
+  },
+  {
+    "Street": "Mozartova"
+  },
+  {
+    "Street": "Mrkosova"
+  },
+  {
+    "Street": "Muchova"
+  },
+  {
+    "Street": "Musorgského"
+  },
+  {
+    "Street": "Myslbekova"
+  },
+  {
+    "Street": "Myslivečkova"
+  },
+  {
+    "Street": "Na kovárně"
+  },
+  {
+    "Street": "Na mlatech"
+  },
+  {
+    "Street": "Na zeliskách"
+  },
+  {
+    "Street": "Nad dědinou"
+  },
+  {
+    "Street": "Nad kašnou"
+  },
+  {
+    "Street": "Nad nádražím"
+  },
+  {
+    "Street": "Nad topoly"
+  },
+  {
+    "Street": "Nadační"
+  },
+  {
+    "Street": "Nádvorní"
+  },
+  {
+    "Street": "Náhorní"
+  },
+  {
+    "Street": "Nachová"
+  },
+  {
+    "Street": "nám. Svobody"
+  },
+  {
+    "Street": "náměstí Odboje"
+  },
+  {
+    "Street": "Narcisová"
+  },
+  {
+    "Street": "Nárožní"
+  },
+  {
+    "Street": "Navrátilova"
+  },
+  {
+    "Street": "Nedbalova"
+  },
+  {
+    "Street": "Neklanova"
+  },
+  {
+    "Street": "Nenovická"
+  },
+  {
+    "Street": "Netroufalky(ulice) u FN"
+  },
+  {
+    "Street": "Netušilova"
+  },
+  {
+    "Street": "Neumannova"
+  },
+  {
+    "Street": "Neužilova"
+  },
+  {
+    "Street": "Nevrklova"
+  },
+  {
+    "Street": "nické oznámení"
+  },
+  {
+    "Street": "Nouzová"
+  },
+  {
+    "Street": "Nová"
+  },
+  {
+    "Street": "Nové Nivky"
+  },
+  {
+    "Street": "Novodvorská"
+  },
+  {
+    "Street": "Novotného"
+  },
+  {
+    "Street": "Obecká"
+  },
+  {
+    "Street": "Obecní"
+  },
+  {
+    "Street": "Obilní"
+  },
+  {
+    "Street": "Obilní trh"
+  },
+  {
+    "Street": "Ochozská"
+  },
+  {
+    "Street": "Okrajová"
+  },
+  {
+    "Street": "Olšová"
+  },
+  {
+    "Street": "Ondrova"
+  },
+  {
+    "Street": "Ondříčkovo náměstí"
+  },
+  {
+    "Street": "Opavská"
+  },
+  {
+    "Street": "Oranžová"
+  },
+  {
+    "Street": "Ořechovská"
+  },
+  {
+    "Street": "Ořešínská"
+  },
+  {
+    "Street": "Osiková"
+  },
+  {
+    "Street": "Ostružinová"
+  },
+  {
+    "Street": "Otiskova"
+  },
+  {
+    "Street": "ovice"
+  },
+  {
+    "Street": "Padělíky"
+  },
+  {
+    "Street": "Pahrbek"
+  },
+  {
+    "Street": "Palackého třída(ulice) Semillaso"
+  },
+  {
+    "Street": "Panenská"
+  },
+  {
+    "Street": "Panská"
+  },
+  {
+    "Street": "Pekárenská"
+  },
+  {
+    "Street": "Pellicova"
+  },
+  {
+    "Street": "Peroutková"
+  },
+  {
+    "Street": "Petrov"
+  },
+  {
+    "Street": "Petrská"
+  },
+  {
+    "Street": "Písečná"
+  },
+  {
+    "Street": "Pivoňkova"
+  },
+  {
+    "Street": "Plevova"
+  },
+  {
+    "Street": "Pod hejdou"
+  },
+  {
+    "Street": "Pod Mniší horou"
+  },
+  {
+    "Street": "Pod sídlištěm"
+  },
+  {
+    "Street": "Podhorní"
+  },
+  {
+    "Street": "Podkomorská"
+  },
+  {
+    "Street": "Podlesná"
+  },
+  {
+    "Street": "Podlomní"
+  },
+  {
+    "Street": "Podnikatelská"
+  },
+  {
+    "Street": "Podpísečná"
+  },
+  {
+    "Street": "Pohořelec"
+  },
+  {
+    "Street": "Pokorova"
+  },
+  {
+    "Street": "Polívkova"
+  },
+  {
+    "Street": "Pompova"
+  },
+  {
+    "Street": "Popelákova"
+  },
+  {
+    "Street": "Popelova"
+  },
+  {
+    "Street": "Porhajmova"
+  },
+  {
+    "Street": "Poslušného"
+  },
+  {
+    "Street": "Pospíšilova"
+  },
+  {
+    "Street": "Potocká"
+  },
+  {
+    "Street": "Poznaňská"
+  },
+  {
+    "Street": "Pramenná"
+  },
+  {
+    "Street": "Pražákova"
+  },
+  {
+    "Street": "Preslova"
+  },
+  {
+    "Street": "Prodloužená"
+  },
+  {
+    "Street": "Prostřední"
+  },
+  {
+    "Street": "Proškovo náměstí"
+  },
+  {
+    "Street": "Průchodní"
+  },
+  {
+    "Street": "Prumperk"
+  },
+  {
+    "Street": "Přadlácká"
+  },
+  {
+    "Street": "Přední"
+  },
+  {
+    "Street": "Přehradní"
+  },
+  {
+    "Street": "Příčky"
+  },
+  {
+    "Street": "Příjezdová"
+  },
+  {
+    "Street": "Přírodní"
+  },
+  {
+    "Street": "Přízova"
+  },
+  {
+    "Street": "Pšikalova"
+  },
+  {
+    "Street": "Puškinova"
+  },
+  {
+    "Street": "Rajhradská"
+  },
+  {
+    "Street": "Rakovecká hotel Kozí Horka"
+  },
+  {
+    "Street": "Ramešova"
+  },
+  {
+    "Street": "Rašelinová"
+  },
+  {
+    "Street": "Revoluční"
+  },
+  {
+    "Street": "Rezkova"
+  },
+  {
+    "Street": "Režná"
+  },
+  {
+    "Street": "Richarda Knose"
+  },
+  {
+    "Street": "Richtrova"
+  },
+  {
+    "Street": "Roháčkova"
+  },
+  {
+    "Street": "Rosického náměstí"
+  },
+  {
+    "Street": "Roubalova"
+  },
+  {
+    "Street": "Rovinka"
+  },
+  {
+    "Street": "rovoz"
+  },
+  {
+    "Street": "Rozhraní"
+  },
+  {
+    "Street": "Rozkošná"
+  },
+  {
+    "Street": "Rudišova"
+  },
+  {
+    "Street": "Ruská"
+  },
+  {
+    "Street": "Ruský vrch"
+  },
+  {
+    "Street": "Růžová"
+  },
+  {
+    "Street": "Rybářská"
+  },
+  {
+    "Street": "Řadová"
+  },
+  {
+    "Street": "Řeznická"
+  },
+  {
+    "Street": "Římské nám."
+  },
+  {
+    "Street": "Sabinova"
+  },
+  {
+    "Street": "Sadovského"
+  },
+  {
+    "Street": "Sady"
+  },
+  {
+    "Street": "Samoty"
+  },
+  {
+    "Street": "Sedlákova"
+  },
+  {
+    "Street": "Seifertova x Heleny Malířové"
+  },
+  {
+    "Street": "Sejkorova"
+  },
+  {
+    "Street": "Scheinerova"
+  },
+  {
+    "Street": "Schodová"
+  },
+  {
+    "Street": "Schovaná"
+  },
+  {
+    "Street": "Skalní"
+  },
+  {
+    "Street": "Skandinávská(ulice) IKEA"
+  },
+  {
+    "Street": "Skopalíkova(ulice) garáže"
+  },
+  {
+    "Street": "Skrytá"
+  },
+  {
+    "Street": "Skřivánčí"
+  },
+  {
+    "Street": "Skutilova"
+  },
+  {
+    "Street": "Sladkovského"
+  },
+  {
+    "Street": "Sladová"
+  },
+  {
+    "Street": "Slaměníkova"
+  },
+  {
+    "Street": "Slavíčkova"
+  },
+  {
+    "Street": "Slepá"
+  },
+  {
+    "Street": "Slezákova"
+  },
+  {
+    "Street": "Slezská"
+  },
+  {
+    "Street": "Smrčková"
+  },
+  {
+    "Street": "Sobolova"
+  },
+  {
+    "Street": "Sobotkova"
+  },
+  {
+    "Street": "Sokolnická"
+  },
+  {
+    "Street": "Sokolská"
+  },
+  {
+    "Street": "Sosnová"
+  },
+  {
+    "Street": "Součkova"
+  },
+  {
+    "Street": "Soudní"
+  },
+  {
+    "Street": "Soukopova"
+  },
+  {
+    "Street": "Sovinec"
+  },
+  {
+    "Street": "Sovova"
+  },
+  {
+    "Street": "Spálená"
+  },
+  {
+    "Street": "Spojka"
+  },
+  {
+    "Street": "Stará osada(ulice) smyčka MHD"
+  },
+  {
+    "Street": "Stejskalova"
+  },
+  {
+    "Street": "Stinná"
+  },
+  {
+    "Street": "Stojanova"
+  },
+  {
+    "Street": "Strážní"
+  },
+  {
+    "Street": "Středova"
+  },
+  {
+    "Street": "Studentská"
+  },
+  {
+    "Street": "Studniční"
+  },
+  {
+    "Street": "Suchého"
+  },
+  {
+    "Street": "Sušilova"
+  },
+  {
+    "Street": "Svahová"
+  },
+  {
+    "Street": "Svatopetrská"
+  },
+  {
+    "Street": "Světlá"
+  },
+  {
+    "Street": "Svitavské nábřeží"
+  },
+  {
+    "Street": "Sýpka"
+  },
+  {
+    "Street": "Šafaříkova"
+  },
+  {
+    "Street": "Šaldova"
+  },
+  {
+    "Street": "Šestákova"
+  },
+  {
+    "Street": "Ševcova"
+  },
+  {
+    "Street": "Ševčenkova"
+  },
+  {
+    "Street": "Ševelova"
+  },
+  {
+    "Street": "Škárova"
+  },
+  {
+    "Street": "Škrétova"
+  },
+  {
+    "Street": "Škrobárenská"
+  },
+  {
+    "Street": "Škrochova"
+  },
+  {
+    "Street": "Šmídkova"
+  },
+  {
+    "Street": "Šmilovského"
+  },
+  {
+    "Street": "Šoustalova"
+  },
+  {
+    "Street": "Štolcova"
+  },
+  {
+    "Street": "Štýřické nábřeží"
+  },
+  {
+    "Street": "Švábenského"
+  },
+  {
+    "Street": "Švédská"
+  },
+  {
+    "Street": "Táborského nábřeží"
+  },
+  {
+    "Street": "Talichova"
+  },
+  {
+    "Street": "Taussigova"
+  },
+  {
+    "Street": "Technická"
+  },
+  {
+    "Street": "Tenorova"
+  },
+  {
+    "Street": "Tererova"
+  },
+  {
+    "Street": "Teslova"
+  },
+  {
+    "Street": "Těsnohlídkova"
+  },
+  {
+    "Street": "Těšínská"
+  },
+  {
+    "Street": "Tichého"
+  },
+  {
+    "Street": "Tolstého"
+  },
+  {
+    "Street": "Tomanova"
+  },
+  {
+    "Street": "Tomečkova"
+  },
+  {
+    "Street": "Tomešova"
+  },
+  {
+    "Street": "Topolky"
+  },
+  {
+    "Street": "Traubova"
+  },
+  {
+    "Street": "Troubská"
+  },
+  {
+    "Street": "Trtílkova"
+  },
+  {
+    "Street": "Třebízského"
+  },
+  {
+    "Street": "Třešňová"
+  },
+  {
+    "Street": "Tříčtvrtní"
+  },
+  {
+    "Street": "třída Generála Píky"
+  },
+  {
+    "Street": "Tučkova"
+  },
+  {
+    "Street": "Tuřanská"
+  },
+  {
+    "Street": "Tvrdého"
+  },
+  {
+    "Street": "Tvrdonická"
+  },
+  {
+    "Street": "U Červeného mlýna"
+  },
+  {
+    "Street": "U kaple"
+  },
+  {
+    "Street": "U Leskavy"
+  },
+  {
+    "Street": "U lípy Svobody"
+  },
+  {
+    "Street": "U luhu"
+  },
+  {
+    "Street": "U památníku"
+  },
+  {
+    "Street": "U Penzionu"
+  },
+  {
+    "Street": "U potoka"
+  },
+  {
+    "Street": "U sokolovny"
+  },
+  {
+    "Street": "U viaduktu"
+  },
+  {
+    "Street": "U zbrojnice"
+  },
+  {
+    "Street": "uhelnáxÚzká"
+  },
+  {
+    "Street": "ulice"
+  },
+  {
+    "Street": "ulice Čoupkových"
+  },
+  {
+    "Street": "Urbánkova"
+  },
+  {
+    "Street": "Urxova"
+  },
+  {
+    "Street": "V aleji"
+  },
+  {
+    "Street": "Valašská"
+  },
+  {
+    "Street": "Valcha"
+  },
+  {
+    "Street": "Vápenka"
+  },
+  {
+    "Street": "Vaškova"
+  },
+  {
+    "Street": "Ve vilkách"
+  },
+  {
+    "Street": "Veleckého"
+  },
+  {
+    "Street": "Veleslavínova"
+  },
+  {
+    "Street": "Venhudova"
+  },
+  {
+    "Street": "Veslařská(ulice) - vozovna"
+  },
+  {
+    "Street": "Větrná"
+  },
+  {
+    "Street": "Vinařská"
+  },
+  {
+    "Street": "Višňová"
+  },
+  {
+    "Street": "Vitáskova"
+  },
+  {
+    "Street": "Vítězná"
+  },
+  {
+    "Street": "Vítězslavy Kaprálové"
+  },
+  {
+    "Street": "Vlastimila Pecha"
+  },
+  {
+    "Street": "Vlasty Pittnerové"
+  },
+  {
+    "Street": "Vlaštovčí"
+  },
+  {
+    "Street": "Vnitřní"
+  },
+  {
+    "Street": "Vohnoutova"
+  },
+  {
+    "Street": "Vojtova"
+  },
+  {
+    "Street": "Volejníkova"
+  },
+  {
+    "Street": "Volfova"
+  },
+  {
+    "Street": "Votroubkova"
+  },
+  {
+    "Street": "Vratná"
+  },
+  {
+    "Street": "Vrázova"
+  },
+  {
+    "Street": "Vrbenského"
+  },
+  {
+    "Street": "Vrbovecká"
+  },
+  {
+    "Street": "Vsetínská"
+  },
+  {
+    "Street": "Všetičkova"
+  },
+  {
+    "Street": "Vyhlídka"
+  },
+  {
+    "Street": "Výhon"
+  },
+  {
+    "Street": "Výpadní"
+  },
+  {
+    "Street": "Výpustky"
+  },
+  {
+    "Street": "Vysoká"
+  },
+  {
+    "Street": "Vyšehradská"
+  },
+  {
+    "Street": "Vyškovská"
+  },
+  {
+    "Street": "Wintrova"
+  },
+  {
+    "Street": "Wolkrova"
+  },
+  {
+    "Street": "Wurmova"
+  },
+  {
+    "Street": "Za kostelem"
+  },
+  {
+    "Street": "Za Parkem"
+  },
+  {
+    "Street": "Zábranského"
+  },
+  {
+    "Street": "Zahradníkova"
+  },
+  {
+    "Street": "Záhumenice"
+  },
+  {
+    "Street": "Záhumní"
+  },
+  {
+    "Street": "Zachova"
+  },
+  {
+    "Street": "Zájezdní"
+  },
+  {
+    "Street": "Zákoutí"
+  },
+  {
+    "Street": "Závětří"
+  },
+  {
+    "Street": "Závist"
+  },
+  {
+    "Street": "Závodní"
+  },
+  {
+    "Street": "Zavřená"
+  },
+  {
+    "Street": "Zázmolí"
+  },
+  {
+    "Street": "Zdráhalova"
+  },
+  {
+    "Street": "Zedníkova"
+  },
+  {
+    "Street": "Zeiberlichova"
+  },
+  {
+    "Street": "Zemkova"
+  },
+  {
+    "Street": "Zikova"
+  },
+  {
+    "Street": "Zlínská"
+  },
+  {
+    "Street": "Zoubkova"
+  },
+  {
+    "Street": "Žabí"
+  },
+  {
+    "Street": "Žebětínek"
+  },
+  {
+    "Street": "Železná"
+  },
+  {
+    "Street": "Žilkova"
+  },
+  {
+    "Street": "Žleb"
+  },
+  {
+    "Street": "Žlíbek"
+  }
+]
